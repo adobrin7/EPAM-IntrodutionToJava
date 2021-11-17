@@ -2,7 +2,7 @@ package ua.epam.lesson_3;
 
 import java.util.Arrays;
 
-public class Lesson_3 {
+class Lesson_3 {
     public static boolean isAscOrder(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {
             if (arr[i] > arr[i + 1])

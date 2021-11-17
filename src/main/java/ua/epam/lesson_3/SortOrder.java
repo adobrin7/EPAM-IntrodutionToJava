@@ -1,6 +1,6 @@
 package ua.epam.lesson_3;
 
-public enum SortOrder {
+enum SortOrder {
     ASC,
     DESC,
 }

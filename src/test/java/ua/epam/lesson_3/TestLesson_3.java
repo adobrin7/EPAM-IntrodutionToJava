@@ -20,8 +20,6 @@ public class TestLesson_3 {
     @Test
     public void isSorted() {
         assertTrue(Lesson_3.isSorted(new int[]{4, 8, 11, 19, 37, 85}, SortOrder.ASC));
-        assertFalse(Lesson_3.isSorted(new int[]{1, 3, 9, 5, 12, 28, 17}, SortOrder.ASC));
-        assertTrue(Lesson_3.isSorted(new int[]{103, 79, 50, 42, 20, 9}, SortOrder.DESC));
         assertFalse(Lesson_3.isSorted(new int[]{19, 13, 5, 97, 11, 43}, SortOrder.DESC));
     }
 

@@ -1,6 +1,6 @@
 package ua.epam.lesson_2;
 
-public class Lesson_2 {
+class Lesson_2 {
     public static int[] task_1(int[] arr) {
         int len = arr.length;
         for (int i = 0, j = len - 1; i < len && i <= j; i++, j--) {

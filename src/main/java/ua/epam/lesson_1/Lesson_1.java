@@ -1,6 +1,6 @@
 package ua.epam.lesson_1;
 
-public class Lesson_1 {
+class Lesson_1 {
     public static int task_1(int n) {
         if (n == 0) {
             return n;
