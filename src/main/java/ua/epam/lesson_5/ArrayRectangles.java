@@ -1,6 +1,6 @@
 package ua.epam.lesson_5;
 
-public class ArrayRectangles {
+class ArrayRectangles {
     private Rectangle[] rectangle_array;
     private int current;
 

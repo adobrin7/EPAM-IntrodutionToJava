@@ -1,6 +1,6 @@
 package ua.epam.lesson_5;
 
-public class Rectangle {
+class Rectangle {
     private double sideA;
     private double sideB;
 
