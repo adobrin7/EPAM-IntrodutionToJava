@@ -2,16 +2,20 @@ package ua.epam.lesson_5;
 
 class ArrayRectangles {
     private Rectangle[] rectangle_array;
-    private int current;
+    private int current = -1;
 
     ArrayRectangles(int length) {
         rectangle_array = new  Rectangle[length];
-        current = -1;
     }
 
     ArrayRectangles(Rectangle... rects) {
-        rectangle_array = rects;
-        current = rects.length - 1;
+        this(rects.length);
+        for (var rect : rects) {
+            boolean isFilled = addRectangle(rect);
+            if (!isFilled) {
+                break;
+            }
+        }
     }
 
     public boolean addRectangle(Rectangle rect) {

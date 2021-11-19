@@ -1,13 +1,19 @@
 
-T
-$src/main/java/lesson_1/Lesson_1.java,8\2\82bad8c945453f93462b6286f7dc5673ba7f7b1f
-T
-$src/test/java/test/TestLesson_1.java,4\6\46ce46ad31d2fef8ea90a186a2fef007e376ede4
-T
-$src/main/java/lesson_2/Lesson_2.java,f\8\f82fd74d1eeaa71249d26b0bd8d0659bfcffd1d2
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-U
-%src/main/java/lesson_3/SortOrder.java,2\2\22198f947054c873cbff3f5db70ec638980dc31b
-T
-$src/test/java/test/TestLesson_2.java,4\4\44dc8ba84d2e308622c07d1a47415e0114c61caa
+O
+src/main/java/ua/epam/Main.java,2\0\20ab23c9b9d1c228258ca7508ed12cf03f709772
+`
+0src/test/java/ua/epam/lesson_1/TestLesson_1.java,8\9\897f42b4510aa03f12ee4ceaf785a92d04d38618
+`
+0src/test/java/ua/epam/lesson_2/TestLesson_2.java,d\3\d3650aa4c15df87fa73e622e423301229e3f0a84
+]
+-src/main/java/ua/epam/lesson_3/SortOrder.java,a\b\ab257aef79b72196320a0413d4a51c0acde6a5fe
+`
+0src/test/java/ua/epam/lesson_3/TestLesson_3.java,7\b\7b33552c97d58136f42b77bbaba2f5e226766065
+\
+,src/main/java/ua/epam/lesson_2/Lesson_2.java,7\d\7d092bd1239c518481097d500ccae0d41b888614
+\
+,src/main/java/ua/epam/lesson_1/Lesson_1.java,3\3\3310c5f347e521661adcad3b932e464ba2cd2115
+a
+1src/test/java/ua/epam/lesson_5/RectangleTest.java,5\7\57dd728a1a8f7cadc6f792a955bcacb06232b392
