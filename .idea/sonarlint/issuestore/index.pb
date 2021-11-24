@@ -15,5 +15,3 @@ O
 ,src/main/java/ua/epam/lesson_2/Lesson_2.java,7\d\7d092bd1239c518481097d500ccae0d41b888614
 \
 ,src/main/java/ua/epam/lesson_1/Lesson_1.java,3\3\3310c5f347e521661adcad3b932e464ba2cd2115
-a
-1src/test/java/ua/epam/lesson_5/RectangleTest.java,5\7\57dd728a1a8f7cadc6f792a955bcacb06232b392
