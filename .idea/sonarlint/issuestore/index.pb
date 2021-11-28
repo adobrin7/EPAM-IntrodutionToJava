@@ -15,3 +15,9 @@ O
 ,src/main/java/ua/epam/lesson_2/Lesson_2.java,7\d\7d092bd1239c518481097d500ccae0d41b888614
 \
 ,src/main/java/ua/epam/lesson_1/Lesson_1.java,3\3\3310c5f347e521661adcad3b932e464ba2cd2115
+]
+-src/main/java/ua/epam/lesson_5/Rectangle.java,9\4\94813fa3ed7b7463bf17c8aecf1780e04252a1b4
+\
+,src/main/java/ua/epam/lesson_3/Lesson_3.java,f\e\fe683959f9552064c176c1166d99e91bdb14ecc1
+c
+3src/main/java/ua/epam/lesson_5/ArrayRectangles.java,3\5\35875f660702737e84ad38066ed0a1f13adfcdfc

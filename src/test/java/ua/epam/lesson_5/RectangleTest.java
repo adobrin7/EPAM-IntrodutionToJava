@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
 public class RectangleTest {
 
     private Rectangle rectangle;
-    private double delta = 0.00001;
+    private final double delta = 0.00001;
 
     @Before
     public void startUp() {

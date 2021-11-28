@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 public class SalesPerson extends Employee {
     private int percent;
 
-    protected SalesPerson(String name, BigDecimal salary, int percent) {
+    public SalesPerson(String name, BigDecimal salary, int percent) {
         super(name, salary);
         this.percent = percent;
     }

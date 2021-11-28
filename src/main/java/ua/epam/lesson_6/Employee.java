@@ -7,7 +7,7 @@ public abstract class Employee {
     private BigDecimal salary;
     protected BigDecimal bonus;
 
-    protected Employee(String name, BigDecimal salary) {
+    public Employee(String name, BigDecimal salary) {
         this.name = name;
         this.salary = salary;
         this.bonus = new BigDecimal(0);
@@ -23,6 +23,10 @@ public abstract class Employee {
 
     public BigDecimal getSalary() {
         return salary;
+    }
+
+    public BigDecimal getBonus() {
+        return bonus;
     }
 
     public void setSalary(BigDecimal salary) throws Exception {

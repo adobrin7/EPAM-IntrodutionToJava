@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 public class Manager extends Employee {
     private int quantity;
-    protected Manager(String name, BigDecimal salary, int clientAmount) {
+    public Manager(String name, BigDecimal salary, int clientAmount) {
         super(name, salary);
         this.quantity = clientAmount;
     }
