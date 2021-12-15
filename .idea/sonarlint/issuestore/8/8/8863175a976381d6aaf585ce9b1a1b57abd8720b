@@ -1,0 +1,13 @@
+
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(«×îä
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ğ»ş
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶ÄÁãıÿÿÿÿ
+y
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(öšÚ–ıÿÿÿÿ
+4
+java:S1700"Rename field "duplicates"(õ•ğúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ññŠøÿÿÿÿ
+b
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(£Ğ»ş
